@@ -1,3 +1,44 @@
+Hi, I'm Gyanenjay Rout 👋
+Backend Software Engineer | Java • Spring Boot • Kafka • AWS
+I build scalable backend systems that process millions of events, power real-time integrations, and solve
+complex distributed-system challenges.
+Currently working on enterprise-grade microservices, event-driven architectures, and cloud-native
+applications while preparing for product companies and global engineering opportunities.
+🚀 What I Do
+• 
+• 
+• 
+• 
+• 
+Design and develop Java/Spring Boot microservices
+Build event-driven systems using Kafka and AWS SQS
+Optimize APIs, databases, and distributed workflows
+Debug and resolve critical production incidents
+Design scalable backend architectures and integrations
+💼 Professional Experience
+Tekion
+• 
+• 
+• 
+• 
+Developed OEM integration microservices using Spring Boot
+Built real-time and batch processing pipelines
+Worked with Kafka, MongoDB, Redis, AWS, and API Gateway
+Resolved 50+ P0/P1 production incidents
+Mphasis
+• 
+• 
+• 
+Developed shipment tracking services used in logistics operations
+Implemented Kafka-based event processing pipelines
+Improved API performance using Redis caching and asynchronous processing
+🛠️ Tech Stack
+Backend Java • Spring Boot • Hibernate • REST APIs • Microservices
+Messaging Kafka • AWS SQS
+Databases MySQL • MongoDB • Redis • Neo4j
+Cloud & DevOps AWS • Docker • GitLab CI/CD • Jenkins
+Monitoring CloudWatch • ELK Stack • Kibana
+1
 �
 � Exploring AI Engineering
 Currently building projects around:
@@ -41,3 +82,4 @@ Join a world-class product engineering team
 📫 Let's Connect
 LinkedIn: [Your LinkedIn]
 Email: gyanenjay.rout99@gmail.com
+2
