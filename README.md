@@ -77,5 +77,5 @@ My goal is to bridge modern AI systems with enterprise Java applications.
 
 ### 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn]
+- LinkedIn: https://www.linkedin.com/in/gyanenjay-rout-aa631029a/
 - Email: gyanenjay.rout99@gmail.com
